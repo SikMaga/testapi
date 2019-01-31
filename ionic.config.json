@@ -1,0 +1,7 @@
+{
+  "name": "testGFT",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
